@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* FONDO DEL BODY*/
+  .fondoIndex{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #363638;
+    height: auto;
+    background-image: url(PIC/fondo4.jpg);
+    }
